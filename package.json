@@ -1,0 +1,33 @@
+{
+  "name": "CurrentVersion",
+  "version": "1.0.0",
+  "author": "Adam George",
+  "description": "Plugin that retrieves the current version of the app",
+  "cordova": {
+    "id": "com.phonegap.plugins.currentversion",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asgeo1/cordova-current-version.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "version"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asgeo1/cordova-current-version/issues"
+  },
+  "homepage": "https://github.com/asgeo1/cordova-current-version"
+}
